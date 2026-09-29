@@ -1,4 +1,3 @@
-# bangladesh-inflation-banking-analytics
 
 # Bangladesh Inflation & Banking Analytics
 
